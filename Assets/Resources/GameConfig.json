@@ -1,0 +1,19 @@
+{
+    "vehicleRailSpeed": 9.0,
+    "maxVehiclesOnRail": 5,
+    "maxStorageSlots": 5,
+    "laneVerticalSpacing": 2.0,
+    "rotationLerpSpeed": 25.0,
+    "deploymentMoveDuration": 0.25,
+    "deploymentRotateDuration": 0.2,
+    "voxelPopScale": 1.5,
+    "voxelAbsorbDuration": 0.4,
+    "wiggleMinAngle": 3.0,
+    "wiggleMaxAngle": 6.0,
+    "wiggleMinDuration": 0.4,
+    "wiggleMaxDuration": 0.6,
+    "wiggleMaxDelay": 0.5,
+    "endgameSpeedThresholdCount": 5,
+    "endgameTimeScale": 2,
+    "absorbSoundCooldown": 0.05
+}
