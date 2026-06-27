@@ -1,3 +1,7 @@
+
+
+
+
 # Unity 4방향 그리드 퍼즐 프로토타입
 
 본 프로젝트는 모바일 인기 퍼즐 게임인 **"Pixel Flow"** 스타일의 핵심 4방향 그리드 매칭 및 경로 연결 메커니즘을 유니티로 구현한 **포트폴리오 제출용 기술 검증 프로토타입**입니다. 확장성 있는 C# 설계, ScriptableObject 기반의 데이터 분리, 그리고 부드러운 UX 애니메이션 연출에 초점을 맞추어 제작되었습니다.
@@ -9,7 +13,7 @@
 
 ## 🎮 게임 플레이 데모 영상
 
-https://github.com/user-attachments/assets/97ec6837-e042-4e04-bc46-382527c3849f
+[https://github.com/user-attachments/assets/97ec6837-e042-4e04-bc46-382527c3849f](https://github.com/user-attachments/assets/940a7b36-04d2-4bb1-a8bf-167f66895767)
 
 * **핵심 플레이 루프:**
   1. **차량 배치(Deploy):** 3개의 대기 레인(Lane)의 선두 차량 또는 임시 저장소(Storage)에 있는 차량 중 하나를 탭하여 선택 및 배치합니다.
